@@ -1,0 +1,16 @@
+{
+  "name": "clover-table-recipes",
+  "version": "1.0.0",
+  "description": "Clover Table \u2014 seasonal food recipes",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": "22.x"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "compression": "^1.8.1"
+  }
+}
